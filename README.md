@@ -9,6 +9,8 @@ The instructions for installing the Guerra application in SuperCollider can be f
 
 `sesion.RPP` is the Reaper session that gave rise to this piece, which can be listened to at https://youtu.be/4slA74IfVSE.
 
+There is also a generative version at https://youtu.be/OAST3RqD0W4 .  It is the result of the application of software that implements 8 computational agents that improvise with previously recorded sound materials.
+
 The `patches` directory of the Guerra application, SynthiGME, contains all the patches that enabled the creation of the sounds used by `sesion.RPP`. The sounds are available at https://youtu.be/m8AUlW4hgVE and appear in sequence in that publication as follows:
 
 - `nose.aif`
